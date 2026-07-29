@@ -230,5 +230,5 @@ For questions, please contact:
 
 ```text
 Muhammad Usman
-Email: muhammad3758@gmail.com
+usmanszu@qq.com
 ```
