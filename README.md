@@ -163,8 +163,8 @@ Results will be added after the paper is finalized.
 
 | Method | Protocol | Top-1 Accuracy (%) |
 |---|---:|---:|
-| SCD-Net baseline | X-Sub | TBD |
-| GA-SCL | X-Sub | TBD |
+| SCD-Net baseline | X-Sub | 86.6 |
+| GA-SCL | X-Sub | 86.9 |
 
 ### NTU RGB+D 120
 
