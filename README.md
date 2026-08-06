@@ -170,8 +170,8 @@ Results will be added after the paper is finalized.
 
 | Method | Protocol | Top-1 Accuracy (%) |
 |---|---:|---:|
-| GA-SCL | X-Sub | TBD |
-| GA-SCL | X-Set | TBD |
+| GA-SCL | X-Sub |78.6 |
+| GA-SCL | X-Set | 79.8 |
 
 ---
 
