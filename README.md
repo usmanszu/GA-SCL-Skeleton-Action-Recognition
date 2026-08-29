@@ -1,4 +1,5 @@
-# GA-SCL: Geometry-Aware Self-Supervised Contrastive Learning with GATr for 3D Skeleton-Based Action Recognition
+# GA-SCL: GA-SCL: Geometry-Conditioned Self-Supervised Contrastive Learning with
+Geometric Algebra Transformers for 3D Skeleton Action Recognition
 
 > Official PyTorch implementation of **GA-SCL**, a geometry-aware self-supervised contrastive learning framework for 3D skeleton-based action recognition.
 
