@@ -359,7 +359,6 @@ If you find this work useful, please cite:
   author  = {Usman, Muhammad and others},
   journal = {Neurocomputing},
   year    = {2026},
-  note    = {Under review}
 }
 ```
 
